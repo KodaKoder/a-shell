@@ -75,3 +75,5 @@ fastlane/report.xml
 fastlane/Preview.html
 fastlane/screenshots/**/*.png
 fastlane/test_output
+/xcfs/Sources/.DS_Store
+.DS_Store
